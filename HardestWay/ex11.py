@@ -1,5 +1,5 @@
 print("How old are you?",end="") #We put a end=' ' at the end of each print line. This tells print to not end
-#the line with a newline character and go to the next line.
+#the line with a newline character and go to the next line.就是让我们的输入不要另起一行的意思：How old are you? 23
 age = input()
 print("How tall are you?",end = "")
 height = input()

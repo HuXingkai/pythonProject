@@ -1,4 +1,5 @@
-print('Hello world')
+name='huxingkai'
+print('Hello world '+name)
 print('Hello Again')
 print('I like typing this.')
 print('This is fun.')
